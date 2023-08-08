@@ -17,3 +17,13 @@ Você precisará demonstrar para o time de investimentos:
 
 
 Aqui você pode acessar o histórico do Ibovespa para ver as cotações, o preço de fechamento, abertura, máxima, mínima e mudança em % para o intervalo selecionado de datas. Os dados do Índice Bovespa podem ser visualizados em intervalos de tempo: diário, semanal ou mensal . Na parte inferior da tabela, você encontrará o resumo para o intervalo selecionado das datas. Baixe gratuitamente as taxas históricas do índice IBOV.
+
+Cronograma:
+
+| Semana | Data | Atividade | Responsável |
+| --- |--- | --- | --- |
+| Semana 1 |07/08 - 13/08 | Criação dos modelos Justificar a técnica utilizada| Igor e Jordan |
+| Semana 2 | 14/08 - 20/08 | Criação das visualizações das métricas | Salomão |
+| Semana 3 | 21/08 - 27/08 | Criação da apresentação com storytelling| Iris |
+| Semana 4 | 28/08 - 01/09 | Revisão do projeto | Todos |
+| Acabou | 02/09 - 04/09 | Entrega do projeto | Iris |
