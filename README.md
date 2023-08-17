@@ -32,7 +32,8 @@ Cronograma:
 ### Tarefas
 
 - [x] Primeiro modelo
-- [ ] Pegar mais dados, atualmente pegamos 4 anos (2019 - 2023) (ARIMA, SARIMA, Prophet) SPOILER: Vai ter um resultado melhor
+- [x] Pegar mais dados, ~~atualmente pegamos 4 anos (2019 - 2023)~~ 23 anos (2000 - 2023)
+- [ ] Testar modelos (ARIMA, SARIMA, Prophet) SPOILER: Vai ter um resultado melhor
 - [ ] Testar o proximo dia
 - [ ] Segundo modelo
 - [ ] Selecionar visualizações e prints para usar no relatorio final
