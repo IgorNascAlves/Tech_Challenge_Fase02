@@ -23,7 +23,7 @@ Cronograma:
 | Semana | Data | Atividade | Responsável |
 | --- |--- | --- | --- |
 | ~~Semana 1~~ |07/08 - 13/08 | Criação dos modelos Justificar a técnica utilizada| Igor e Salomão |
-| Semana 2 | 14/08 - 20/08 | Criação das visualizações das métricas | Salomão |
+| ~~Semana 2~~ | 14/08 - 20/08 | Criação das visualizações das métricas | Salomão |
 | Semana 3 | 21/08 - 27/08 | Criação da apresentação com storytelling| Iris |
 | Semana 4 | 28/08 - 01/09 | Revisão do projeto | Todos |
 | Acabou | 02/09 - 04/09 | Entrega do projeto | Iris |
