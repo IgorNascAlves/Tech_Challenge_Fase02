@@ -24,17 +24,18 @@ Cronograma:
 | --- |--- | --- | --- |
 | ~~Semana 1~~ |07/08 - 13/08 | Criação dos modelos Justificar a técnica utilizada| Igor e Salomão |
 | ~~Semana 2~~ | 14/08 - 20/08 | Criação das visualizações das métricas | Salomão |
-| Semana 3 | 21/08 - 27/08 | Criação da apresentação com storytelling| Iris |
+| ~~Semana 3~~ | 21/08 - 27/08 | Criação da apresentação com storytelling| Iris |
 | Semana 4 | 28/08 - 01/09 | Revisão do projeto | Todos |
-| Acabou | 02/09 - 04/09 | Entrega do projeto | Iris |
+| Acabou | 02/09 - **04/09** | Entrega do projeto | Iris |
 
 
 ### Tarefas
 
 - [x] Primeiro modelo
 - [x] Pegar mais dados, ~~atualmente pegamos 4 anos (2019 - 2023)~~ 23 anos (2000 - 2023)
-- [ ] Testar modelos (ARIMA, SARIMA, Prophet) SPOILER: Vai ter um resultado melhor
-- [ ] Testar o proximo dia
-- [ ] Segundo modelo
+- [x] Testar modelos (ARIMA, SARIMA, Prophet) SPOILER: Vai ter um resultado melhor
+- [x] Testar o proximo dia
+- [x] Segundo modelo
+- [ ] Ter um resultado melhor (mais que 70% ou não ficar prevendo só o mesmo numero (Ex: só 119))
 - [ ] Selecionar visualizações e prints para usar no relatorio final
 - [ ] Montar o relatorio final
